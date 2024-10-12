@@ -9,5 +9,7 @@
     </a>
   </div>
   <br>
+  <h2 align="center">⚡ Contributions ⚡</h2>
+  <br>
    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahull0328&theme=high-contrast&bg_color=070707&hide_border=true" width="100%"/>
 </p>
