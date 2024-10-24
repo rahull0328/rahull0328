@@ -29,6 +29,6 @@
 <h2>📈 Github Stats 📈</h2>
 <br>
   
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahull0328&theme=dark)](https://github.com/rahull0328)&nbsp;&nbsp;&nbsp;&nbsp;  [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=rahull0328&theme=dark)](https://github.com/rahull0328)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahull0328&theme=radical)](https://github.com/rahull0328)&nbsp;&nbsp;&nbsp;&nbsp;  [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=rahull0328&theme=radical)](https://github.com/rahull0328)
 
 </div>
