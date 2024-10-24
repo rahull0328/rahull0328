@@ -39,5 +39,3 @@
   
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=rahull0328&theme=discord)
 </div>
-
-
