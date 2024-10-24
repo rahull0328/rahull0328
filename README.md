@@ -21,7 +21,7 @@
   <br>
   <h2 align="center">⚡ Contributions ⚡</h2>
   <br>
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahull0328&theme=high-contrast&bg_color=070707&hide_border=true" width="100%"/>
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahull0328&theme=x-code&bg_color=070707&hide_border=true" width="100%"/>
    <br>
    
 </p>
@@ -32,3 +32,12 @@
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahull0328&theme=radical)](https://github.com/rahull0328)&nbsp;&nbsp;&nbsp;&nbsp;  [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=rahull0328&theme=radical)](https://github.com/rahull0328)
 
 </div>
+<br>
+<div align="center">  
+<h2>🏆 Trophies 🏆</h2>
+<br>
+  
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=rahull0328&theme=discord)
+</div>
+
+
