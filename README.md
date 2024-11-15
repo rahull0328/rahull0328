@@ -14,7 +14,7 @@
 <br />
 <p align=center>
   <div align=center>
-      <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rahull0328&theme=default&card_width=900&card_height=300" alt="GitHub Streak" /></a>
+      <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rahull0328&theme=youtube-dark&card_width=900&card_height=300" alt="GitHub Streak" /></a>
   </div>
 </p>
 <p align=center>
@@ -29,17 +29,10 @@
 <h2>📈 Github Stats 📈</h2>
 <br>
   
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahull0328&theme=radical)](https://github.com/rahull0328)&nbsp;&nbsp;&nbsp;&nbsp;  [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=rahull0328&theme=radical)](https://github.com/rahull0328)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahull0328&theme=radical)](https://github.com/rahull0328)&nbsp;&nbsp;&nbsp;&nbsp;  [![Rahul’s github stats](https://github-readme-stats.vercel.app/api?username=rahull0328&theme=radical)](https://github.com/rahull0328)
 
 </div>
 <br>
-<div align="center">  
-<h2>🏆 Trophies 🏆</h2>
-<br>
-  
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=rahull0328&theme=discord)
-</div>
-<br />
 <div align="center">  
 <h2>📈 LeetCode Stats 📈</h2>
 <br>
