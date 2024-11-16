@@ -15,7 +15,7 @@
 <p align=center>
   <div align=center>
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=rahull0328&theme=dark" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=rahull0328&theme=dark&card_width=900&card_height=300" />
       <img src="https://streak-stats.demolab.com?user=rahull0328&theme=default" />
     </picture>
   </div>
