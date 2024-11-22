@@ -24,7 +24,8 @@
   <br>
   <h2 align="center">⚡ Contributions ⚡</h2>
   <br>
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahull0328&theme=x-code&bg_color=070707&hide_border=true" width="100%"/>
+  
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahull0328&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
    <br>
    
 </p>
