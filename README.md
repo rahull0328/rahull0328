@@ -33,7 +33,9 @@
 <h2>📈 Github Stats 📈</h2>
 <br>
   
- [![Rahul’s github stats](https://github-readme-stats.vercel.app/api?username=rahull0328&theme=radical&card_width=900&card_height=400)](https://github.com/rahull0328)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahull0328&theme=radical)](https://github.com/rahull0328)&nbsp;&nbsp;&nbsp;&nbsp;
+  
+  [![Rahul’s github stats](https://github-readme-stats.vercel.app/api?username=rahull0328&theme=radical&card_width=800px)](https://github.com/rahull0328)
 
 </div>
 <br>
@@ -45,3 +47,7 @@
 
 </div>
 <br>
+<div align="center">
+  <h2>🏆 Trophies 🏆</h2>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahull0328" alt="github_trophies" /></a>
+</div>
