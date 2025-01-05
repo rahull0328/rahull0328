@@ -1,4 +1,4 @@
-<h2 align="center">⚡ About Me ⚡</h2>
+<h2 align="center">👨‍💻 About Me 👨‍💻</h2>
 <div align="center">
 <h3><strong>I'm a Full-Stack Web Developer 💻, Photographer 📸, and Designer 🎨! </strong></h3> 
 <p>
