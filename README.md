@@ -50,5 +50,5 @@
 <br>
 <div align="center">
   <h2>🏆 Trophies 🏆</h2>
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahull0328" alt="github_trophies" /></a>
+  <img src="https://github-profile-trophy.vercel.app/?username=rahull0328&theme=onedark" alt="github_trophies" />
 </div>
