@@ -2,6 +2,16 @@
 <div align="center">
 <h3><strong>I'm a Full-Stack Web Developer 💻, Photographer 📸, and Designer 🎨! </strong></h3> 
 <p>
+    <a href="https://github.com/rahull0328?tab=repositories&sort=stargazers">
+      <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/rahull0328?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+    </a>
+    <a href="https://github.com/rahull0328?tab=followers">
+      <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/rahull0328?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+    </a>
+    <a href="https://github.com/rahull0328/?tab=Simple-View-Counter">
+      <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=rahull0328&style=for-the-badge"/>
+    </a>
+  <br>
   I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
 </p>  
 </div>
