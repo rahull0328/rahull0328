@@ -3,7 +3,6 @@
 <h3><strong>I'm a Full-Stack Web Developer 💻, Photographer 📸, and Designer 🎨! </strong></h3> 
 <p>
       I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
-
 <br>
 <br>
     <a href="https://github.com/rahull0328?tab=repositories&sort=stargazers">
