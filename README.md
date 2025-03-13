@@ -25,11 +25,7 @@
 <br />
 <p align=center>
   <div align=center>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=rahull0328&theme=youtube-dark&card_width=900&card_height=300" />
-      <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=rahull0328&theme=youtube-dark&card_width=900&card_height=300" />
-      <img src="https://streak-stats.demolab.com?user=rahull0328&theme=radical" />
-    </picture>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rahull0328&theme=onedark-duo&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
   </div>
 </p>
 <p align=center>
