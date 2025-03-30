@@ -4,7 +4,6 @@
 <p>
       I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
 <br>
-<br>
       <a href="https://github.com/rahull0328?tab=repositories&sort=stargazers">
           <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/rahull0328?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
       </a>
