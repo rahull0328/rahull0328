@@ -21,7 +21,6 @@
 
 [![An image of @rahull0328's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rahull0328)](https://holopin.io/@rahull0328)
 <br>
-<br> 
 <h2 align="center">⚡ Streaks ⚡</h2>
 <br />
 <p align=center>
@@ -35,7 +34,6 @@
   <br>
   
    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahull0328&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" height="70%"/>
-   <br>
    
 </p>
 <div align="center">  
@@ -47,7 +45,6 @@
   [![Rahul’s github stats](https://github-readme-stats.vercel.app/api?username=rahull0328&theme=radical&card_width=800px)](https://github.com/rahull0328)
 
 </div>
-<br>
 <div align="center">  
 <h2>📈 LeetCode Stats 📈</h2>
 <br>
@@ -55,7 +52,6 @@
  ![LeetCode Stats](https://leetcard.jacoblin.cool/rahul0328?theme=radical&font=Actor&ext=heatmap)
 
 </div>
-<br>
 <div align="center">
   <h2>🏆 Trophies 🏆</h2>
   <img src="https://github-profile-trophy.vercel.app/?username=rahull0328&theme=discord" alt="github_trophies" />
