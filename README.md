@@ -54,5 +54,5 @@
 </div>
 <div align="center">
   <h2>🏆 Trophies 🏆</h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=rahull0328&theme=darkhub&margin-w=15&margin-h=10&row=3&column=3" alt="github_trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rahull0328&theme=darkhub&margin-w=15&margin-h=6&row=3&column=3" alt="github_trophies" />
 </div>
