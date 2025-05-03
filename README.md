@@ -1,10 +1,10 @@
 <h2 align="center">👨‍💻 About Me</h2>
 
 <div align="center">
-  <h3><strong>Hi there! I'm Rahul — a Full-Stack Developer 💻, Photographer 📸, and Designer 🎨</strong></h3>
+  <h3><strong>I'm a Full-Stack Web Developer 💻, Photographer 📸, and Designer 🎨! </strong></h3>
   <p>
-    I'm passionate about crafting beautiful and functional websites that solve real-world problems. I thrive on challenges — whether it's debugging tricky issues, designing elegant UIs, or collaborating with awesome teams.<br><br>
-    I'm constantly learning and exploring new technologies. I also enjoy photography and digital design in my free time!
+    I love the entire process of developing creative websites. 
+    I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
   </p>
 
   <br>
