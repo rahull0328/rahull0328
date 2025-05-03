@@ -24,8 +24,11 @@
 
 ---
 
-## 📌 Featured Projects
+<table style="border: none;" align="center">
+  <tr>
+    <td>
 
+  <h3>📌 Featured Projects</h3>
 Here are a few highlights of my favorite or most impactful repositories:
 
 - 🔹 [**Chatty**](https://github.com/rahull0328/Chatty-Frontend): A realtime chat application made with MERN Stack and by using socket.io along with stunning UI.
@@ -35,6 +38,12 @@ Here are a few highlights of my favorite or most impactful repositories:
 - 🔹 [**DBMS-BASICS**](https://github.com/rahull0328/DBMS-BASICS): A guide to understanding and applying database principles.
 
 _You can explore all my work [here ➡️](https://github.com/rahull0328?tab=repositories)_
+    </td>
+    <td>
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -50,17 +59,18 @@ _You can explore all my work [here ➡️](https://github.com/rahull0328?tab=rep
 
 <div align="center">
   
-  <img src="https://streak-stats.demolab.com?user=rahull0328&theme=onedark-duo&date_format=j%20M%5B%20Y%5D&card_width=900px&card_height=250px" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=rahull0328&theme=youtube-dark&date_format=j%20M%5B%20Y%5D&card_width=700px&card_height=200px" alt="GitHub Streaks" width="90%" />
 
   <br><br>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahull0328&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" height="70%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahull0328&theme=react-dark&hide_border=true&area=true" width="100%" />
 
   <br><br>
 
   [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahull0328&theme=radical&layout=compact)](https://github.com/rahull0328)
 
   [![Rahul’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahull0328&theme=radical&show_icons=true)](https://github.com/rahull0328)
+
 
 </div>
 
