@@ -1,99 +1,106 @@
 <h2 align="center">👨‍💻 About Me</h2>
 
 <div align="center">
-  <h3><strong>I'm a Full-Stack Web Developer 💻, Photographer 📸, and Designer 🎨! </strong></h3>
+  <h4><strong>Full-Stack Developer 💻 | Designer 🎨 | Photographer 📸</strong></h4>
   <p>
-    I love the entire process of developing creative websites. 
-    I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
+    I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look. <br>
+    Apart from coding, I enjoy capturing moments through photography and designing visually appealing interfaces.
   </p>
-
+  
   <br>
 
   <a href="https://github.com/rahull0328?tab=repositories&sort=stargazers">
-    <img alt="Total Stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/rahull0328?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+    <img alt="Total Stars" src="https://custom-icon-badges.demolab.com/github/stars/rahull0328?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
   </a>
   
   <a href="https://github.com/rahull0328?tab=followers">
-    <img alt="Followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/rahull0328?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+    <img alt="Followers" src="https://custom-icon-badges.demolab.com/github/followers/rahull0328?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
   </a>
   
   <a href="https://github.com/rahull0328">
-    <img alt="Profile Views" title="GitHub Profile Views" src="https://komarev.com/ghpvc/?username=rahull0328&style=for-the-badge"/>
+    <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=rahull0328&style=for-the-badge"/>
   </a>
 </div>
 
 ---
 
-<table style="border: none;" align="center">
+## 🚀 Featured Projects
+
+<table align="center">
   <tr>
     <td>
 
-  <h3>📌 Featured Projects</h3>
-Here are a few highlights of my favorite or most impactful repositories:
+- 🔗 [**Chatty**](https://github.com/rahull0328/Chatty-Frontend): Real-time chat app using MERN + Socket.IO.
+- 🛒 [**Picklify**](https://github.com/rahull0328/Picklify): Python app with load testing, image caching & payments.
+- 📰 [**ByteNews**](https://github.com/rahull0328/ByteNews): A Flutter-powered modern news app.
+- 🗃️ [**DBMS-BASICS**](https://github.com/rahull0328/DBMS-BASICS): A DBMS concepts & practical reference guide.
 
-- [**Chatty**](https://github.com/rahull0328/Chatty-Frontend): A realtime chat application made with MERN Stack and socket.io.
-- [**Picklify**](https://github.com/rahull0328/Picklify): A Python project with image caching, load testing, and payment gateway integration.
-- [**ByteNews**](https://github.com/rahull0328/ByteNews): A Flutter-powered news app with a smooth, modern UI.
-- [**DBMS-BASICS**](https://github.com/rahull0328/DBMS-BASICS): A guide to understanding and applying database principles.
+_Explore more of my work [here ➡️](https://github.com/rahull0328?tab=repositories)_
 
-_You can explore all my work [here ➡️](https://github.com/rahull0328?tab=repositories)_
 </td>
 <td>
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 </td>
-
   </tr>
 </table>
 
 ---
 
-## 🔖 Holopin Badges
-
-[![Holopin Badges](https://holopin.me/rahull0328)](https://holopin.io/@rahull0328)
-
----
-
-## 🛡️ GitHub Trophies
+## 🏅 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rahull0328&theme=darkhub&margin-w=15&margin-h=6&row=3&column=3" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rahull0328&theme=darkhub&margin-w=15&margin-h=10&row=2&column=4" />
 </div>
 
 ---
 
-## ⚡ GitHub Stats & Activity
+## 📈 GitHub Stats & Contributions
 
 <div align="center">
-  
-  <img src="https://streak-stats.demolab.com?user=rahull0328&theme=youtube-dark&date_format=j%20M%5B%20Y%5D&card_width=700px&card_height=200px" alt="GitHub Streaks" width="90%" />
+  <img src="https://streak-stats.demolab.com?user=rahull0328&theme=youtube-dark&card_width=700px&card_height=200px" width="95%" />
 
 <br><br>
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahull0328&theme=react-dark&hide_border=true&area=true" width="100%" />
+</div>
 
-<br><br>
+---
 
+## 🎮 Pac-Man Contribution Graph
+
+<div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph.svg">
-    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph.svg">
-  </picture>  
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rahull0328/rahull0328/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rahull0328/rahull0328/output/pacman-contribution-graph.svg">
+    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/rahull0328/rahull0328/output/pacman-contribution-graph.svg" width="100%">
+  </picture>
+</div>
 
-<br><br> 
+---
 
+## 🧠 Languages & Stats
+
+<div align="center">
+  
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahull0328&theme=radical&layout=compact)](https://github.com/rahull0328)
 
-[![Rahul’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahull0328&theme=radical&show_icons=true)](https://github.com/rahull0328)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahull0328&theme=radical&show_icons=true)](https://github.com/rahull0328)
 
 </div>
 
 ---
 
-## 📈 LeetCode Stats
+## 🧩 LeetCode Stats
 
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/rahul0328?theme=radical&font=Actor&ext=heatmap" alt="LeetCode Stats" />
 </div>
+
+---
+
+## 💼 Holopin Badges
+
+[![Holopin Badges](https://holopin.me/rahull0328)](https://holopin.io/@rahull0328)
 
 ---
 
