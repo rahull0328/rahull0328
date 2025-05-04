@@ -31,11 +31,10 @@
   <h3>📌 Featured Projects</h3>
 Here are a few highlights of my favorite or most impactful repositories:
 
-- 🔹 [**Chatty**](https://github.com/rahull0328/Chatty-Frontend): A realtime chat application made with MERN Stack and by using socket.io along with stunning UI.
-- 🔹 [**Picklify**](https://github.com/rahull0328/Picklify): A Python project with image caching, load testing, and payment gateway integration.
-- 🔹 [**ByteNews**](https://github.com/rahull0328/ByteNews): A Flutter-powered news app with a smooth, modern UI.
-- 🔹 [**MEAN Stack Student Portal**](https://github.com/rahull0328): A complete MEAN stack app for managing student details.
-- 🔹 [**DBMS-BASICS**](https://github.com/rahull0328/DBMS-BASICS): A guide to understanding and applying database principles.
+- [**Chatty**](https://github.com/rahull0328/Chatty-Frontend): A realtime chat application made with MERN Stack and socket.io.
+- [**Picklify**](https://github.com/rahull0328/Picklify): A Python project with image caching, load testing, and payment gateway integration.
+- [**ByteNews**](https://github.com/rahull0328/ByteNews): A Flutter-powered news app with a smooth, modern UI.
+- [**DBMS-BASICS**](https://github.com/rahull0328/DBMS-BASICS): A guide to understanding and applying database principles.
 
 _You can explore all my work [here ➡️](https://github.com/rahull0328?tab=repositories)_
     </td>
