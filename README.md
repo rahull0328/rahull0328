@@ -37,12 +37,19 @@ Here are a few highlights of my favorite or most impactful repositories:
 - [**DBMS-BASICS**](https://github.com/rahull0328/DBMS-BASICS): A guide to understanding and applying database principles.
 
 _You can explore all my work [here ➡️](https://github.com/rahull0328?tab=repositories)_
-    </td>
-    <td>
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
-    </td>
+</td>
+<td>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</td>
+
   </tr>
 </table>
+
+---
+
+## 🔖 Holopin Badges
+
+[![Holopin Badges](https://holopin.me/rahull0328)](https://holopin.io/@rahull0328)
 
 ---
 
@@ -60,16 +67,23 @@ _You can explore all my work [here ➡️](https://github.com/rahull0328?tab=rep
   
   <img src="https://streak-stats.demolab.com?user=rahull0328&theme=youtube-dark&date_format=j%20M%5B%20Y%5D&card_width=700px&card_height=200px" alt="GitHub Streaks" width="90%" />
 
-  <br><br>
+<br><br>
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahull0328&theme=react-dark&hide_border=true&area=true" width="100%" />
 
-  <br><br>
+<br><br>
 
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahull0328&theme=radical&layout=compact)](https://github.com/rahull0328)
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rahull0328/rahull0328/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rahull0328/rahull0328/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/rahull0328/rahull0328/output/github-snake.svg" />
+  </picture>
 
-  [![Rahul’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahull0328&theme=radical&show_icons=true)](https://github.com/rahull0328)
+<br><br> 
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahull0328&theme=radical&layout=compact)](https://github.com/rahull0328)
+
+[![Rahul’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahull0328&theme=radical&show_icons=true)](https://github.com/rahull0328)
 
 </div>
 
@@ -80,12 +94,6 @@ _You can explore all my work [here ➡️](https://github.com/rahull0328?tab=rep
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/rahul0328?theme=radical&font=Actor&ext=heatmap" alt="LeetCode Stats" />
 </div>
-
----
-
-## 🔖 Holopin Badges
-
-[![Holopin Badges](https://holopin.me/rahull0328)](https://holopin.io/@rahull0328)
 
 ---
 
