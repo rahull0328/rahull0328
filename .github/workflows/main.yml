@@ -19,16 +19,23 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
+      - name: Set up Git config
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
       - name: Generate Pac-Man Contribution Graph
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
 
-      - name: Deploy to Main Branch (subdirectory)
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
-          publish_branch: main
-          destination_dir: .github/pacman-graph
-          commit_message: "Update Pac-Man contribution graph in main branch [skip ci]"
+      - name: Move output to .github/pacman-graph
+        run: |
+          mkdir -p .github/pacman-graph
+          mv dist/*.svg .github/pacman-graph/
+
+      - name: Commit and Push Changes
+        run: |
+          git add .github/pacman-graph
+          git commit -m "Update Pac-Man contribution graph [skip ci]" || echo "No changes to commit"
+          git push origin main
