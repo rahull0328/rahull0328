@@ -61,8 +61,9 @@ _Explore more of my work [here ➡️](https://github.com/rahull0328?tab=reposit
 
 <br><br>
 
-  <div align="center">
-  <img src="profile-3d-contrib/profile-night-rainbow.svg" width="95%" alt="3D Contribution Graph" />
+  <!-- 🗺️ Contribution Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahull0328&theme=react-dark&hide_border=true&area=true" width="90%" />
 </div>
 
 </div>
