@@ -14,22 +14,25 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0  # Important: fetch all history to allow git pull
-
-      - name: Make your changes
-        run: |
-          echo "Generated" >> example.txt
-          git add .
-          git commit -m "generated" || echo "No changes to commit"
+          fetch-depth: 0
 
       - name: Configure Git
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
 
+      - name: Make your changes
+        run: |
+          echo "Generated" >> example.txt
+
+      - name: Stage & Commit changes
+        run: |
+          git add .
+          git commit -m "generated" || echo "No changes to commit"
+
       - name: Pull latest changes before push
         run: |
-          git pull --rebase origin main
+          git pull --rebase origin main || echo "Nothing to rebase"
 
       - name: Push changes
         run: |
