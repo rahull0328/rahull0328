@@ -63,7 +63,7 @@ _Explore more of my work [here ➡️](https://github.com/rahull0328?tab=reposit
 
   <!-- 🗺️ Contribution Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahull0328&theme=react-dark&hide_border=true&area=true" width="90%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahull0328&theme=react-dark&hide_border=true&area=true" width="95%" />
 </div>
 
 </div>
