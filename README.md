@@ -34,6 +34,7 @@
 - 🛒 [**Picklify**](https://github.com/rahull0328/Picklify): Python app with load testing, image caching & payments.
 - 📰 [**ByteNews**](https://github.com/rahull0328/ByteNews): A Flutter-powered modern news app.
 - 🗃️ [**DBMS-BASICS**](https://github.com/rahull0328/DBMS-BASICS): A DBMS concepts & practical reference guide.
+- 🧑‍💼 [**JobHive**](https://jobhive-job-portal.netlify.app/): A Job Portal with user and recruiter sides.
 
 _Explore more of my work [here ➡️](https://github.com/rahull0328?tab=repositories)_
 
