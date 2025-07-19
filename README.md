@@ -122,4 +122,10 @@ _Explore more of my work [here ➡️](https://github.com/rahull0328?tab=reposit
   <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-grey?style=for-the-badge&logo=web&logoColor=white" />
 </a>
 
+<a href="https://rahull0328.github.io/">
+  
+  [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/husk_ravens_53)
+  
+</a>
+
 </div>
