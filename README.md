@@ -55,6 +55,14 @@ _Explore more of my work [here ➡️](https://github.com/rahull0328?tab=reposit
 
 ---
 
+## 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,django,react,nextjs,nodejs,expressjs,flutter,dart,php,mysql,mongodb,figma,git,github,vscode,postman,docker,c,cpp,java,python,vercel" />
+</p>
+
+---
+
 ## 📈 GitHub Stats & Contributions
 
 <div align="center">
@@ -87,21 +95,15 @@ _Explore more of my work [here ➡️](https://github.com/rahull0328?tab=reposit
 ## 🧠 Languages & Stats
 
 <div align="center">
-  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahull0328&theme=radical&layout=compact)](https://github.com/rahull0328)
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahull0328&theme=radical&show_icons=true)](https://github.com/rahull0328)
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahull0328&theme=radical" alt="Profile Summary" />
+
 </div>
 
----
 
-## 🧩 LeetCode Stats
-
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/rahul0328?theme=radical&font=Actor&ext=heatmap" alt="LeetCode Stats" />
-</div>
-
+> These graphs aren’t bragging — they’re just... highly detailed visual representations of passion. 📊
 ---
 
 ## 💼 Holopin Badges
@@ -114,18 +116,22 @@ _Explore more of my work [here ➡️](https://github.com/rahull0328?tab=reposit
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/rahull2004/">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+  <a href="https://www.linkedin.com/in/rahull2004/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
-<a href="https://rahull0328.github.io/">
-  <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-grey?style=for-the-badge&logo=web&logoColor=white" />
-</a>
+  <a href="https://rahull0328.github.io/">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-grey?style=for-the-badge&logo=web&logoColor=white" />
+  </a>
 
-<a href="https://rahull0328.github.io/">
-  
-  [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/husk_ravens_53)
-  
-</a>
+  <a href="https://www.codechef.com/users/husk_ravens_53">
+    <img alt="CodeChef" src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+
+  <a href="https://leetcode.com/rahul0328/">
+    <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+  </a>
 
 </div>
+
+
