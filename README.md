@@ -58,7 +58,7 @@ _Explore more of my work [here ➡️](https://github.com/rahull0328?tab=reposit
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,django,react,nextjs,nodejs,expressjs,flutter,dart,php,mysql,mongodb,figma,git,github,vscode,postman,docker,c,cpp,java,python,vercel" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,django,react,nextjs,nodejs,expressjs,flutter,dart,php,mysql,mongodb,figma,github,vscode,postman,docker,c,cpp,java,python,vercel,visualstudio,sqlite" />
 </p>
 
 ---
